@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Welcome to My  Project :)
+# Welcome to My Live Portfolio Project :)
 
 ## Project info
 
