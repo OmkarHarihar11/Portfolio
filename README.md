@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Welcome to your Project :)
+# Welcome to My  Project :)
 
 ## Project info
 
